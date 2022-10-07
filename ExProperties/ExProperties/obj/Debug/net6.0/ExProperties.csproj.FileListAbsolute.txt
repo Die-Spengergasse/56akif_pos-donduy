@@ -1,0 +1,15 @@
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.csproj.AssemblyReference.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.AssemblyInfoInputs.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.AssemblyInfo.cs
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.csproj.CoreCompileInputs.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\bin\Debug\net6.0\ExProperties.exe
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\bin\Debug\net6.0\ExProperties.deps.json
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\bin\Debug\net6.0\ExProperties.runtimeconfig.json
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\bin\Debug\net6.0\ExProperties.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\bin\Debug\net6.0\ExProperties.pdb
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\refint\ExProperties.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.pdb
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ExProperties.genruntimeconfig.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\ExProperties\ExProperties\obj\Debug\net6.0\ref\ExProperties.dll
