@@ -24,10 +24,15 @@ namespace Spg.Vinothek.Domain.Model {
     }
 
     public class Warenkorb {
+
+        public int WarenkorbId { get; set; }
         public List<Warenkorbelement> Warenkorbelemente { get; set; } = new List<Warenkorbelement>();
+
+        public DateTime Bestellsdatum { get; set; } = DateTime.MinValue;
 
         public Zahlungsarten Zahlung { get; set; }
 
         public Versandarten Versand { get; set; }
+
     }
 }
