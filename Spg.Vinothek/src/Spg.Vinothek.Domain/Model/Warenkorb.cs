@@ -5,7 +5,29 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Spg.Vinothek.Domain.Model {
+    public enum Zahlungsarten {
+        Kauf_auf_Rechnung = 0,
+        Kreditkarte = 1,
+        Paypal = 2,
+        Giropay = 3
+    }
+
+    public enum Versandarten {
+        Selbstabholung = 0,
+        Dpd = 1,
+        Dhl = 2,
+        Tnt = 3,
+        Ups = 4,
+        FedEx = 5,
+        Hermes = 6,
+        Gls = 7
+    }
+
     public class Warenkorb {
         public List<Warenkorbelement> Warenkorbelemente { get; set; } = new List<Warenkorbelement>();
+
+        public Zahlungsarten Zahlung { get; set; }
+
+        public Versandarten Versand { get; set; }
     }
 }
