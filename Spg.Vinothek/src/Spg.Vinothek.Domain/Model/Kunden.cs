@@ -12,11 +12,11 @@ namespace Spg.Vinothek.Domain.Model {
     }
     public class Kunden {
         
-        public Geschlechter Geschlecht { get; set; }
         public string Kundennummer { get; set; } = string.Empty;
         public string Vorname { get; set; } = string.Empty;
         public string Nachname { get; set; } = string.Empty;
         public DateTime Geburtsdatum { get; set; } = DateTime.MinValue;
+        public Geschlechter Geschlecht { get; set; }
         public string Adresse { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public DateTime RegistrationDatum { get; set; }

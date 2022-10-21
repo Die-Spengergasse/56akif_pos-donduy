@@ -8,7 +8,7 @@ namespace Spg.Vinothek.Domain.Model {
     public class Warenkorbelement {
         public int WarenkorbelementId { get; set; }
 
-        public int Kundennummer;       
+        public string? Kundennummer; //zu erkennen, wer was bestellt hat      
         public Wein Wein { get; set; } = new Wein();       
 
         
