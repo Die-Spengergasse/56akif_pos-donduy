@@ -12,7 +12,7 @@ namespace Spg.Vinothek.Domain.Model {
         Sonstiges = 3
     }
     public enum Laender {
-        Austria = 0,
+        Oesterreich = 0,
         Deutschland = 1,
         Italien = 2,
         Spanien = 3,
@@ -35,7 +35,7 @@ namespace Spg.Vinothek.Domain.Model {
         public int WeinId { get; set; }
         public string Weinname { get; set; } = string.Empty;
         public Kategorien Kategorie { get; set; }
-        public string Jahrgang { get; set; } = string.Empty;
+        public int Jahrgang { get; set; }
         public Laender Land { get; set; }
         public string Beschreibung { get; set; } = string.Empty;        
         public double Preis { get; set; } = double.MinValue;
