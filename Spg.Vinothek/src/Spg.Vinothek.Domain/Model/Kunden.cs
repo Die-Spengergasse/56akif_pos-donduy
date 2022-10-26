@@ -21,7 +21,7 @@ namespace Spg.Vinothek.Domain.Model {
         public string Email { get; set; } = string.Empty;
         public DateTime RegistrationDatum { get; set; }
         public string Passwort { get; set; } = string.Empty;
-        public List<Warenkorb> Warenkorbs { get; set; } = new List<Warenkorb>();
+        public List<Warenkorb> Kunden_Warenkorbs { get; set; } = new List<Warenkorb>();
 
     }
 }
