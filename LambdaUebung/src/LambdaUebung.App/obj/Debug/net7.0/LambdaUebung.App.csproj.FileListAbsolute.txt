@@ -1,0 +1,15 @@
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\bin\Debug\net7.0\LambdaUebung.App.exe
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\bin\Debug\net7.0\LambdaUebung.App.deps.json
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\bin\Debug\net7.0\LambdaUebung.App.runtimeconfig.json
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\bin\Debug\net7.0\LambdaUebung.App.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\bin\Debug\net7.0\LambdaUebung.App.pdb
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.csproj.AssemblyReference.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.AssemblyInfoInputs.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.AssemblyInfo.cs
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.csproj.CoreCompileInputs.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\refint\LambdaUebung.App.dll
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.pdb
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\LambdaUebung.App.genruntimeconfig.cache
+C:\Users\ddotu\Documents\Spengergasse\3_Semester\POS\Uebungen\LambdaUebung\src\LambdaUebung.App\obj\Debug\net7.0\ref\LambdaUebung.App.dll
